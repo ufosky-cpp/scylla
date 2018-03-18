@@ -18,3 +18,5 @@ CMakeLists.txt.user
 *.egg-info
 __pycache__CMakeLists.txt.user
 .gdbinit
+/.idea/
+/cmake-build-debug/
